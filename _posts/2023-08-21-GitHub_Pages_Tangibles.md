@@ -2,22 +2,18 @@
 toc: true
 comments: true
 layout: post
-title: Sample Review Ticket
-description: Example Review Ticket!!! This will help us communicate results.
+title: Week 0 Review Ticket
+description: Accomplishments/achievements completed for week 0.
 type: tangibles
-courses: { compsci: {week: 1} }
+courses: { compsci: {week: 0} }
 ---
 
-### Summary of Accomplishments
-> Update Blog to contain all hacks.  
-- Reviewed with Pair.  Discuss/Show evidence.
-- Discuss laptop, cloud computer.
-- Discuss tools setup and troubles.
-- Show personal blog / home page.
-- Show how you are maintaining notes, answering hacks, and showing tangibles.  
-- How have you learned Markdown, HTML, CSS, JavaScript.
-- Show Jupyter Notebooks and how you have added and organized them in the blog.
-- Show evidence of using Slack Account, show app installed on Laptop and/or phone.  Show awared of #annoncements, #general, #coding.
-- Run make commands to build and test blog locally, before pushing changes to GitHub pages.
-- Discuss GitHub Account, show ability to push/pull changes from VSCode.
-- Discuss development on Themes, show how you plan to organized lab notebook.
+### Struggles of Week 0
+- Many technical issues regarding setup of tools
+- No official partner/pair to work with
+
+### Summary of Accomplishments of Week 0
+- Installed tools/began tool installation
+- Began developing Github Pages Blog
+- Collaborated and resolved technical issues with others in the class
+- Discussed various software that will be used in the coming weeks, such as Python

@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Student Blog
+title: Tucker's Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## Tucker Golpariani - My Blog
+This blog marks the beginning of my true computer science journey as my first creation in a computer science class.
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+## About me
+I am one of the six members in my family. In addition to my two parents, I have three siblings, one of which I am older than. I also have a dog. I was born in San Diego and have lived here in the same house for my entire life. Currently, I am an 11th grader at Del Norte High School. I love to play video games, hang out with friends and family, and enjoy nature by going on hikes, running, and bikeriding. Another hobby of mine is photography, which I have been doing since I was young.
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+![Alt text](<images/csp about me.png>)
+![Alt text](images/dog.png)
+
+I look forward to the experiences that lie ahead in AP Computer Science Principles through Data Structures.

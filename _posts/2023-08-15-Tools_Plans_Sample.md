@@ -2,15 +2,15 @@
 toc: true
 comments: false
 layout: post
-title: Sample Daily Plan 
-description: Example Blog!!!  This shows planning and notes from hacks.
+title: Daily Plan for Week 0 
+description: This Plan displays what is planned for this first week of school.
 type: plans
 courses: { compsci: {week: 0} }
 ---
 
 ### PBL Unit 1 / Week 0
-Learning outcome.  Installing Tools and showing usage of VSCode.
-- Wednesday - Pick pair share partner, Pick crossover pair, Establish team of four.  Spend some time talking and getting to know each other, particularly with Computer Science experience and goals.  You should be matched with someone that has similar experience.
-- Thursday - Setup Tools on laptop and/or Cloud Computer.
-- Friday - Review and test as a Pair. Spend 25 minutes at one keyboard then switch for next 25 minutes.
+Intent on learning the ropes of the class and taking first steps by communicating with others, installing tools like VSCode, and starting to resolve technical issues.
 
+- Wednesday - Learn about the class, CSP, and establish a clear set of goals for Trimester 1 and the rest of the 2023-2024 school year. Begin installation process of tools.
+- Thursday - Continue tool installation on computer and begin Github pages setup.
+- Friday - Finish setup if needed. Live review: present completed work on blog so far at this stage in the process. Explain the obstacles along the way and how they were resolved.
