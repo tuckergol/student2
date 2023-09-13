@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
 title: Game of Life
 description: Grab of the Game of Life from APCSA repo.
@@ -27,7 +27,7 @@ Up glider   Down Glider   Very Fun
     }
 
     .cell {
-    background-color: royalblue;
+    background-color: green;
     border: 1px solid black;
     }
 </style>
@@ -103,9 +103,9 @@ function updateContainer() {
     arr.forEach((val, c) => {
         let n = r*GRID_SIZE + c;
         if(val === 1) {
-        document.getElementById("cell-"+n).style['background-color'] = 'yellow';
+        document.getElementById("cell-"+n).style['background-color'] = 'royalblue';
         }else {
-        document.getElementById("cell-"+n).style['background-color'] = 'royalblue'
+        document.getElementById("cell-"+n).style['background-color'] = 'green'
         }
     });
     })

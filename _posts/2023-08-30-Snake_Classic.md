@@ -1,12 +1,13 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
 title: Snake Game
-description:
 type: hacks
 courses: { compsci: {week: 2} }
 ---
+
+Note: editing and producing different functions form JavaScript is not possible directly from a markdown file, and instead possible through a modified and embedded HTML file.
 
 <style>
 
@@ -358,9 +359,9 @@ courses: { compsci: {week: 2} }
         }
         /////////////////////////////////////////////////////////////
         // Change the snake speed...
-        // 150 = slow
-        // 100 = normal
-        // 50 = fast
+        // 200 = slow
+        // 150 = normal
+        // 100 = fast
         let setSnakeSpeed = function(speed_value){
             snake_speed = speed_value;
         }
