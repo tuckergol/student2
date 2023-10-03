@@ -14,4 +14,5 @@ Complete Pair Showcase and learn more about ideas surrounding various languages.
 
 - Pair Showcase presentation
     - Collaborate in Pair to revise hacks and all aspects of work done so far and Time Box
-- 1.1-1.4 Team Test: preform hacks found in "Data Types, Lists, Dictionaries..."
+- Complete hack "Data, Lists, and Dictionaries"
+- 1.1-1.4 Team Test: create "Manifesto" and assign roles

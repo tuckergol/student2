@@ -19,3 +19,4 @@ courses: { compsci: {week: 1} }
 - Finished and polished home page
 - Collaborated with others to resolve technical issues
 - Prepared for Live Review 1
+- Python IO (Python quiz) personalized

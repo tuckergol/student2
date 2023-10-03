@@ -7,8 +7,6 @@ type: hacks
 courses: { compsci: {week: 2} }
 ---
 
-Note: editing and producing different functions form JavaScript is not possible directly from a markdown file, and instead possible through a modified and embedded HTML file.
-
 <style>
 
     body{
@@ -101,7 +99,7 @@ Note: editing and producing different functions form JavaScript is not possible 
             <p>Speed:
                 <input id="speed1" type="radio" name="speed" value="120" checked/>
                 <label for="speed1">Slow</label>
-                <input id="speed2" type="radio" name="speed" value="75"/>
+                <input id="speed2" type="radio" name="speed" value="175"/>
                 <label for="speed2">Normal</label>
                 <input id="speed3" type="radio" name="speed" value="35"/>
                 <label for="speed3">Fast</label>
