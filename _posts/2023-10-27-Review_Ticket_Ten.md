@@ -8,3 +8,5 @@ courses: { compsci: {week: 10} }
 ---
 
 ### PBL Unit 2 / Week 10
+- Completed Team Teaches
+- Progressed Passion Project

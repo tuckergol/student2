@@ -7,7 +7,7 @@ type: plans
 courses: { compsci: {week: 10} }
 ---
 
-### PBL Unit 2 / Week 7
+### PBL Unit 2 / Week 10
 - Continue work on Passion Project
     - Begin to integrate backend and frontend together
 - Prepare for Live Review(s)
